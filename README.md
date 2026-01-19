@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h2>
+<h3 align="center">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h3>
 
 ###
 
@@ -65,8 +65,16 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sharma17Deepak.Sharma17Deepak&"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
