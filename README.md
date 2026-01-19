@@ -1,14 +1,12 @@
 <br clear="both">
 
-<img align="right" height="100" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
+<img align="left" height="100" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
 
 ###
 
-<h2 align="center">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h2>
+<h2 align="left">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharma17Deepak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
