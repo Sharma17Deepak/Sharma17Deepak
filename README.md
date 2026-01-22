@@ -1,12 +1,14 @@
 <br clear="both">
 
-<img align="left" height="100" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
 
 ###
 
-<h2 align="left">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h2>
+<h3 align="left">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharma17Deepak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
@@ -60,11 +62,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/output/snake.svg" alt="Snake animation" />
 
 ###
