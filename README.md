@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="right" height="100" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
 
 ###
