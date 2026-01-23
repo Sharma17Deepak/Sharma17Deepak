@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h3>
+<h2 align="left">Hi 👋! My name is Deepak Sharma and I'm a Frontend Developer, from Mumbai</h2>
 
 ###
 
