@@ -17,6 +17,8 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sharma17Deepak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
