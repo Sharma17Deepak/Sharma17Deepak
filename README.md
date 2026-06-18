@@ -17,8 +17,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sharma17Deepak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -68,6 +66,13 @@
   <a href="https://x.com/sharmadeepoo17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
