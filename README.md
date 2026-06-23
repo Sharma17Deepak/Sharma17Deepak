@@ -1,4 +1,4 @@
-<div>
+<div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=56&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
@@ -6,29 +6,30 @@
 
 <br clear="both">
 
-<img align="right" height="80" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
+<img data-importer="image" align="right" height="80" src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif"  />
 
 ###
 
-<h3 align="left">Hi 👋! My name is Deepak Sharma and I'm a Software Developer, from Mumbai</h3>
+<h3 data-importer="text" align="left">Hi 👋! My name is Deepak Sharma and I'm a Software Developer, from Mumbai</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Sharma17Deepak/Sharma17Deepak/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://solarpoweredsolutions.in/img/t1.jpg"  />
+<img data-importer="image" align="right" height="150" src="https://solarpoweredsolutions.in/img/t1.jpg"  />
 
 ###
 
-<div align="left">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
@@ -56,7 +57,7 @@
 
 ###
 
-<div align="left">
+<div data-importer="socials" align="left">
   <a href="sharmadeepoo30@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
